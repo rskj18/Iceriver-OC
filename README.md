@@ -27,7 +27,7 @@ KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝�
 This is a document about ICERIVER_ Description of xyys version:<br>
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
 telegram:@rskj18<br>
-QQ:52116266<br>
+QQ:521162668<br>
 If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
 The following are the available firmware versions and prices<br>
 
