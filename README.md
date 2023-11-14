@@ -1,8 +1,8 @@
 # Iceriver-OC
-这是一份关于ICERIVER_xyys版本的说明：<br>
+这是一份关于ICERIVER_rskj18版本的说明：<br>
 The English version is as follows:<br>
 目前所有固件采用MAC地址绑定的方式制作，请通过**telegram**或者**discord**联系我。<br>
-**`telegram:@rskj`<br>**
+**`telegram:@rskj18`<br>**
 **`QQ:521162668`<br>**
 如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
 以下为可选择的固件版本及售价<br>
@@ -26,7 +26,7 @@ KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝�
 
 This is a document about ICERIVER_ Description of xyys version:<br>
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
-telegram:@rskj<br>
+telegram:@rskj18<br>
 QQ:52116266<br>
 If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
 The following are the available firmware versions and prices<br>
@@ -52,9 +52,6 @@ If you have already purchased my firmware, please contact me and make up for the
 No, the first firmware is to clean up your cache.
 
 <br>
--------------------------------------------Update 11.8--------------------------------------------------------<br>
-someone's ks0 run on the 188GG.
-https://cdn.discordapp.com/attachments/1155048883563540601/1171837324645109790/IMG_0528.jpg?ex=655e218d&is=654bac8d&hm=7fa55abad1a8dea54a72d7f7124fa0a2ec7b6e49d1a6dc643f6dd561f9d449db&<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
