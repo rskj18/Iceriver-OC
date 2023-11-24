@@ -15,6 +15,8 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks3L_7T | iceriver_ks3L | 7000G | 1500kas | 0 | 3400w  |
+| ks3L_7T | iceriver_ks3L | 7000G | 0 | 2% | 3400w  |
+| ks3M_7T | iceriver_ksM | 7000G | 1500kas | 0| 3400w  |
 | ks3M_7T | iceriver_ksM | 7000G | 0 | 2% | 3400w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 
