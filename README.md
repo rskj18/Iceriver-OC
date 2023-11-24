@@ -59,13 +59,12 @@ Please contact me and let me know the MAC address of your device. Regardless of 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
 No, the first firmware is to clean up your cache.
 <br> _ _
--------------------------------------------11.21更新----- -------------------------------------------------- - <br> _
+-------------------------------------------Update 11.21--------------------------------------------------------<br>
 更新退款条款和说明<br>
-* 巩固升级总量。< br >
-* 可以申请抽成版本来保存。有效的再付款。< br >
-*固件升级无效全额退款。<br>
-*您可以申请收费开发费的版本来试用。有效还款。<br>
-<br>
+*固件升级无效全额退款。我们的固件和免费的固件是不一样的。如果您无法使用免费固件，可以尝试我的固件。<br>
+*可以申请抽成版本来试用。有效再付款。<br>
+*Full refund for invalid firmware upgrade. Our firmware is different from the free firmware. If you are unable to use the free firmware, you can try my firmware.<br>
+*You can apply for a version that charges development fees to try out. Effective re payment.<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
