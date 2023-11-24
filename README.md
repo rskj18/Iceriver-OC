@@ -37,13 +37,17 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 1350W | 
-| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS| 0 | 3550W (The fan is powered externally） | 
-| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
+| ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 1350W  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W  |
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 3550W （风扇外接）  | 
+| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
+| ks3L_7T | iceriver_ks3L | 7000G | 1500kas | 0 | 3400w  |
+| ks3L_7T | iceriver_ks3L | 7000G | 0 | 2% | 3400w  |
+| ks3M_7T | iceriver_ksM | 7000G | 1500kas | 0| 3400w  |
+| ks3M_7T | iceriver_ksM | 7000G | 0 | 2% | 3400w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 <br>
 
 KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
@@ -54,7 +58,13 @@ Please contact me and let me know the MAC address of your device. Regardless of 
 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
 No, the first firmware is to clean up your cache.
-
+<br> _ _
+-------------------------------------------11.21更新----- -------------------------------------------------- - <br> _
+更新退款条款和说明<br>
+* 巩固升级总量。< br >
+* 可以申请抽成版本来保存。有效的再付款。< br >
+*固件升级无效全额退款。<br>
+*您可以申请收费开发费的版本来试用。有效还款。<br>
 <br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
