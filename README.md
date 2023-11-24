@@ -14,6 +14,8 @@ The English version is as follows:<br>
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
+| ks3L_7T | iceriver_ks3L | 7000G | 1500kas | 0 | 3400w  |
+| ks3M_7T | iceriver_ksM | 7000G | 0 | 2% | 3400w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
