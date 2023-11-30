@@ -28,7 +28,7 @@ KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝�
 请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。<br>
 
 
-This is a document about ICERIVER telegram:@rskj1 <br>
+This is a document about ICERIVER telegram:@rskj18 <br>
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
 telegram:@rskj18<br>
 QQ:521162668<br>
