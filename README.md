@@ -14,17 +14,17 @@ The English version is as follows:<br>
 
 以下为可选择的固件版本及售价<br>
 
-| 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
+| 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 1000KAS | 0 | 1350W  |
-| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W  |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 3550W （风扇外接）  | 
-| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 0 | 1800w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 1000kas | 0 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | 参考12.4日更新 | 0 | 200w  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 1000KAS | 1 | 1350W  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 1000KAS | 1 | 1350W  |
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 1 | 3550W （风扇外接）  | 
+| ks3_8.5T | iceriver_ks3 | 8300-8800G | 4000KAS | 1 |  3350W  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 1 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 1 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 1000kas | 1 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 1 | 130w  |
+| ks0pro_360g | iceriver_ks0pro | 280-360G | 参考12.4日更新 | 1 | 200w  |
 <br>
 
 KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
