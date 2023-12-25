@@ -173,7 +173,7 @@ There is a risk of damaging the MOSFETs with the 360G version. Currently, my per
 更换了LOGO和二维码样式。有些人说我丑，现在总喜欢了吧？<br>
 Changed the logo and QR code style. Some people say my old logo is too ugly. So I replaced it with a new one.<br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rskj18/Iceriver-OC/main/Pic/ks0pro360G.webp">
+  <img src="https://raw.githubusercontent.com/rskj18/Iceriver-OC/main/Pic/ks0pro360G.png">
 </div>
 <br>
 ↑↑↑↑↑↑↑KS0PRO算力图↑↑↑↑↑↑<br>
