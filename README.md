@@ -12,8 +12,6 @@ The English version is as follows:<br>
 
 *固件升级无效全额退款。<br>
 
-*可以申请抽成版本来试用。有效再付款。<br>
-
 以下为可选择的固件版本及售价<br>
 
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
@@ -22,9 +20,9 @@ The English version is as follows:<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 800kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 800kas | 0 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 1000kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
 | ks0pro_360g | iceriver_ks0pro | 280-360G | 参考12.4日更新 | 0 | 200w  |
 <br>
