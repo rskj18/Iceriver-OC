@@ -20,6 +20,8 @@ The English version is as follows:<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 1000KAS | 1 | 1350W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 1 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 4000KAS | 1 |  3350W  |
+| ks3L_7T | iceriver_ks3L | 6800-7000G | 咨询 | 1 |  3500W  | 
+| ks3M_7T | iceriver_ks3M | 6800-7000G | 咨询 | 1 |  3500W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 1 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1000kas | 1 | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 1000kas | 1 | 1800w  |
@@ -60,6 +62,8 @@ The following are the available firmware versions and prices<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
+| ks3L_7T | iceriver_ks3L | 6800-7000G | 2000KAS | 0 |  3500W  | 
+| ks3M_7T | iceriver_ks3M | 6800-7000G | 2000KAS | 0 |  3500W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 800kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 800kas | 0 | 1800w  |
