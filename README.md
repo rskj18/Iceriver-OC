@@ -16,15 +16,15 @@ The English version is as follows:<br>
 
 | 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1350W  |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1350W  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1000W  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1000W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 |  3350W  |
 | ks3L_7T | iceriver_ks3L | 6800-7000G | 咨询 | 1 |  3500W  | 
 | ks3M_7T | iceriver_ks3M | 6800-7000G | 咨询 | 1 |  3500W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1800w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 1 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 1 | 1750w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 1 | 130w  |
 | ks0pro_360g | iceriver_ks0pro | 280-360G | 200kas | 1 | 200w  |
 <br>
@@ -58,15 +58,15 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W | 
-| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1000W | 
+| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1000W |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
 | ks3L_7T | iceriver_ks3L | 6800-7000G | 200KAS | 0 |  3500W  | 
 | ks3M_7T | iceriver_ks3M | 6800-7000G | 200KAS | 0 |  3500W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1750w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1750w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
 | ks0pro_360g | iceriver_ks0pro | 280-360G | 200KAS | 0 | 200w  |
 
