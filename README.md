@@ -16,8 +16,8 @@ The English version is as follows:<br>
 
 | 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1000W  |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1000W  |
+| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 1 | 1000W  |
+| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 1 | 1000W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 |  3350W  |
 | ks3L_7T | iceriver_ks3L | 6800-7000G | 咨询 | 1 |  3500W  | 
@@ -58,8 +58,8 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1000W | 
-| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1000W |
+| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 0 | 1000W | 
+| ks1_1.6T | iceriver_ks1 | 1650G | 0 | 5% | 1000W |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
 | ks3L_7T | iceriver_ks3L | 6800-7000G | 200KAS | 0 |  3500W  | 
