@@ -20,13 +20,14 @@ The English version is as follows:<br>
 | ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 1 | 1000W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 |  3350W  |
-| ks3L_7T | iceriver_ks3L | 6800-7000G | 咨询 | 1 |  3500W  | 
-| ks3M_7T | iceriver_ks3M | 6800-7000G | 咨询 | 1 |  3500W  |
+| ks3L_6.75T | iceriver_ks3L | 6750G | 500KAS | 1 |  3450W  | 
+| ks3M_6.75T | iceriver_ks3M | 6750G | 500KAS | 1 |  3450W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 1 | 1750w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 1 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | 200kas | 1 | 200w  |
+| ks0pro_240g | iceriver_ks0pro | 240G | 200kas | 1 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 240G | 250kas | 1 | 180w  |
 <br>
 
 KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
@@ -62,13 +63,13 @@ The following are the available firmware versions and prices<br>
 | ks1_1.6T | iceriver_ks1 | 1650G | 0 | 5% | 1000W |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
-| ks3L_7T | iceriver_ks3L | 6800-7000G | 200KAS | 0 |  3500W  | 
-| ks3M_7T | iceriver_ks3M | 6800-7000G | 200KAS | 0 |  3500W  |
+| ks3L_6.75T | iceriver_ks3L | 6750G | 500KAS | 0 |  3450W  | 
+| ks3M_6.75T | iceriver_ks3M | 6750G | 500KAS | 0 |  3450W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1750w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1750w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | 200KAS | 0 | 200w  |
+| ks0pro_280g | iceriver_ks0pro | 280G | 200KAS | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 340G | 250kas | 0 | 180w  |
 
 <br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
