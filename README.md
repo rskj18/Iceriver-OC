@@ -14,17 +14,16 @@ The English version is as follows:<br>
 
 以下为可选择的固件版本及售价（更新日期：2023-12-31）<br>
 
-| 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
+| 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W  |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS | 0 | 3550W （风扇外接）  | 
-| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
-| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
-| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
-| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 0 | 3550w  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 1 | 1350W  |
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS | 1 | 3550W （风扇外接）  | 
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 1 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 1 | 130w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 1 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 1 | 180w  |
+| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 1 | 3550w  |
 
 KS3M/L的升级固件需要使用配套的工具，可以在github中下载，右侧的releases中的‘温度检测工具’。其他型号的设备也可以通过工具查询芯片状态。<br>
 340G固件可能造成硬件损坏，即使你改装了我推荐的所有散热，依然有损坏的风险，对于硬件的损坏我不负责。280G以内的固件是安全的。<br>
