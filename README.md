@@ -12,25 +12,24 @@ The English version is as follows:<br>
 
 *固件升级无效全额退款。<br>
 
-以下为可选择的固件版本及售价<br>
+以下为可选择的固件版本及售价（更新日期：2023-12-31）<br>
 
-| 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
+| 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 1 | 1000W  |
-| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 1 | 1000W  |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 | 3550W （风扇外接）  | 
-| ks3_8.5T | iceriver_ks3 | 8300-8800G | 3000KAS | 1 |  3350W  |
-| ks3L_6.75T | iceriver_ks3L | 6750G | 500KAS | 1 |  3450W  | 
-| ks3M_6.75T | iceriver_ks3M | 6750G | 500KAS | 1 |  3450W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 1 | 1750w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 1 | 1750w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 1 | 130w  |
-| ks0pro_240g | iceriver_ks0pro | 240G | 200kas | 1 | 180w  |
-| ks0pro_340g | iceriver_ks0pro | 240G | 250kas | 1 | 180w  |
-<br>
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W  |
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS | 0 | 3550W （风扇外接）  | 
+| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
+| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 0 | 3550w  |
 
-KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
+KS3M/L的升级固件需要使用配套的工具，可以在github中下载，右侧的releases中的‘温度检测工具’。其他型号的设备也可以通过工具查询芯片状态。<br>
+340G固件可能造成硬件损坏，即使你改装了我推荐的所有散热，依然有损坏的风险，对于硬件的损坏我不负责。280G以内的固件是安全的。<br>
+KS0PRO_340G需要更好的散热，所以我公布了我设计的散热风扇支架，和其他人设计的风扇罩，3D打印即可使用，有需要的自行寻找3D打印服务。<br>
+
 <br>KS0PRO_360G将会提供3个版本的固件.320G\340G\360G。<br>
 <br>
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
@@ -41,7 +40,7 @@ KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝�
 请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。<br>
 <br>
 
-This is a document about QQ：521162668 version:<br>
+This is a document about ICERIVER_ Description of xyys version:<br>
 
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or QQ<br>
 
@@ -59,19 +58,21 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1650G | 400KAS | 0 | 1000W | 
-| ks1_1.6T | iceriver_ks1 | 1650G | 0 | 5% | 1000W |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS| 0 | 3550W (The fan is powered externally） | 
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W | 
+| ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
-| ks3L_6.75T | iceriver_ks3L | 6750G | 500KAS | 0 |  3450W  | 
-| ks3M_6.75T | iceriver_ks3M | 6750G | 500KAS | 0 |  3450W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1750w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1750w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
-| ks0pro_280g | iceriver_ks0pro | 280G | 200KAS | 0 | 180w  |
-| ks0pro_340g | iceriver_ks0pro | 340G | 250kas | 0 | 180w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
+| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 0 | 3550w  |
 
+The upgrade firmware for the KS3M/L requires the use of a corresponding tool, which can be downloaded from GitHub. Look for the '温度检测工具' in the 'releases' section on the right side. This tool can also be used to check the chip status of other device models.<br>
 <br>
+"The 340G firmware may cause hardware damage, even if you have installed all the recommended cooling modifications, there is still a risk of damage. I am not responsible for hardware damage. Firmware below 280G is safe."<br>
+"340G прошивка может вызвать повреждение аппаратного обеспечения, даже если вы установили все рекомендованные модификации по охлаждению, по-прежнему существует риск повреждения. Я не несу ответственности за повреждение аппаратного обеспечения. Прошивка ниже 280G безопасна."<br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
 <br>
 KS0PRO_360G will provide three firmware versions: 320G, 340G, and 360G.<br>
@@ -105,7 +106,7 @@ telegram：https://t.me/rskj18 固件更新通知频道<br>
 
 固件中的L代表更低的功耗。在同一台机器上，280G比280G_L消耗更多电量，主要因为机器体质差异巨大。购买固件请优先测试带L的版本，如果算力不达标再测试没有L的版本<br>
 
-300-360G固件有过热烧毁mos管的风险，可以购买，但是我对安全性不负责。因为这批次冰河的机器差异巨大，无法保证每个人都能安全的使用。请确保你使用了散热铜片和3D打印件还有强力风扇（3000转以上）。并拆除电源接口和网线接口的挡板。<br>
+300-360G固件有过热烧毁mos管的风险，暂时不出售。因为这批次冰河的机器差异巨大，无法保证每个人都能安全的使用。<br>
 
 再次重申，付费固件无效退款。<br>
 
@@ -115,11 +116,9 @@ The table from the December 4th update has been modified. Firmware for 250G, 260
 
 In the firmware, "L" indicates lower power consumption. On the same machine, 280G consumes more power than 280G_L, mainly due to significant differences in machine quality. When purchasing firmware, please prioritize testing versions with "L." If the hashrate is not up to standard, then test versions without "L."<br>
 
-There is a risk of overheating and burning the MOS tube for 300-360G firmware. It can be purchased, but I do not take responsibility for its safety. Due to significant variations in this batch of Ice River machines, it cannot be guaranteed that everyone can use them safely. Make sure you use heat dissipation copper sheets, 3D printed parts, and a high-speed fan (3000 RPM or above). Remove the shields from the power and network interfaces.<br>
-
 Once again, it is emphasized that there is no refund for ineffective paid firmware.<br>
 -------------------------------------------Update 12.4--------------------------------------------------------<br>
-KS0pro超频表格
+KS0pro超频表格（以下表格数据仅供参考，价格参考上面。）
 <br>
 
 | 固件版本version | 算力hashrate | 功耗power | 散热片heatsink | 风扇罩fan cowl | 价格price |
@@ -142,8 +141,8 @@ KS0pro超频表格
 <br>
 
 价格：<br>
-第一档：200kas <br>
-第二档：价格待定<br>
+第一档：<br>
+第二档：<br>
 购买第二档会赠送第一档的固件。<br>
 360G版本有损坏MOS管的风险，目前我个人的机器96小时无损坏。购买了第二档的用户申请可以获得。<br>
 
