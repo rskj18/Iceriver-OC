@@ -16,14 +16,14 @@ The English version is as follows:<br>
 
 | 固件版本 | 适用型号 | 算力 | 售价 | 直升 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.8T | iceriver_ks1 | 1800G | 200KAS | 1 | 1350W  |
-| ks3_9.2T | iceriver_ks3 | 8300-9200G | 400KAS | 1 | 3550W （风扇外接）  | 
-| ks2_3.1T | iceriver_ks2 | 3100G | 200kas | 1 | 1800w  |
-| ks2_2.8T | iceriver_ks2 | 2800G | 200kas | 1 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 50kas | 1 | 130w  |
-| ks0pro_280g | iceriver_ks0pro | 250G-280G | 100kas | 1 | 180w  |
-| ks0pro_340g | iceriver_ks0pro | 250G-340G | 150kas | 1 | 180w  |
-| ks3M/L_7200G | iceriver_ks3m/l | 6250-7200G | 300kas | 1 | 3550w  |
+| ks1_1.8T | iceriver_ks1 | 1800G | 100KAS | 1 | 1350W  |
+| ks3_9.2T | iceriver_ks3 | 8300-9200G | 200KAS | 1 | 3550W （风扇外接）  | 
+| ks2_3.1T | iceriver_ks2 | 3100G | 100kas | 1 | 1800w  |
+| ks2_2.8T | iceriver_ks2 | 2800G | 100kas | 1 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 30kas | 1 | 130w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 65kas | 1 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 85kas | 1 | 180w  |
+| ks3M/L_7200G | iceriver_ks3m/l | 6250-7200G | 165kas | 1 | 3550w  |
 
 KS3M/L的升级固件需要使用配套的工具，可以在github中下载，右侧的releases中的‘温度检测工具’。其他型号的设备也可以通过工具查询芯片状态。<br>
 340G固件可能造成硬件损坏，即使你改装了我推荐的所有散热，依然有损坏的风险，对于硬件的损坏我不负责。280G以内的固件是安全的。<br>
@@ -57,14 +57,14 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.8T | iceriver_ks1 | 1800G | 200KAS | 0 | 1350W | 
-| ks3_9.2T | iceriver_ks3 | 8300-9200G | 400KAS| 0 | 3550W (The fan is powered externally） | 
-| ks2_3.1T | iceriver_ks2 | 3100G | 200kas | 0 | 1800w  |
-| ks2_2.8T | iceriver_ks2 | 2800G | 200kas | 0 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 50KAS | 0 | 130W  |
-| ks0pro_280g | iceriver_ks0pro | 250G-280G | 100kas | 0 | 180w  |
-| ks0pro_340g | iceriver_ks0pro | 250G-340G | 150kas | 0 | 180w  |
-| ks3M/L_7200G | iceriver_ks3m/l | 6250-7200G | 300kas | 0 | 3550w  |
+| ks1_1.8T | iceriver_ks1 | 1800G | 100KAS | 0 | 1350W | 
+| ks3_9.2T | iceriver_ks3 | 8300-9200G | 200KAS| 0 | 3550W (The fan is powered externally） | 
+| ks2_3.1T | iceriver_ks2 | 3100G | 100kas | 0 | 1800w  |
+| ks2_2.8T | iceriver_ks2 | 2800G | 100kas | 0 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 30KAS | 0 | 130W  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 65kas | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 85kas | 0 | 180w  |
+| ks3M/L_7200G | iceriver_ks3m/l | 6250-7200G | 165kas | 0 | 3550w  |
 
 The upgrade firmware for the KS3M/L requires the use of a corresponding tool, which can be downloaded from GitHub. Look for the '温度检测工具' in the 'releases' section on the right side. This tool can also be used to check the chip status of other device models.<br>
 <br>
