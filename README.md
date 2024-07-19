@@ -1,3 +1,31 @@
+请查看对应压缩包内的readme文档来升级。
+
+https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
+
+PLS follow readme file to upgrade
+
+1、固件可以直接通过Web界面中的固件升级上传，升级完成后需要重启2次。
+
+2、矿池连接不可使用SSL链接。否则无法连上矿池，然后重启。
+
+本固件有配套检测工具，下载地址：github.com/rskj18/Iceriver-OC/releases/tag/tools
+
+KS0ultra ：505G-700G 已更新
+KS5L ：12180G-12920G 已更新
+
+KS0PRO:250G-360G
+KS3M:5000g-6750g
+
+KS3L KS3M固件通用。
+
+The firmware can be directly uploaded through the web interface for firmware upgrades. After the upgrade is complete, it requires two reboots.
+
+https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
+
+Pool connections cannot use SSL links. Otherwise, you won't be able to connect to the pool, and then you should reboot.
+
+This firmware comes with a tool for monitoring temperature and voltage. Download link: github.com/rskj18/Iceriver-OC/releases/tag/tools
+
 # Iceriver-OC
 这是一份关于ICERIVER_rskj18版本的说明：<br>
 The English version is as follows:<br>
