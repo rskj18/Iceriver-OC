@@ -2,9 +2,17 @@
 
 7月22日更新了KS0ultra和KS5L固件的稳定性，请及时更新！！！
 
+升级多少算力完全取决于你的机器散热能力，只要能控制散热即可升级到最高算力稳定运行！
+
+KS0ultra和KS5L固件5分钟算力会显示偏低，KS5L可能会显示5分钟9T是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
+
 Please be sure to check the readme or PDF document in the corresponding compressed package to upgrade, it is very important
 
-The stability of KS0ultra and KS5L firmware was updated on July 22, please update in time!!!
+The stability of KS0ultra and KS5L firmware was updated on July 22, please update in time! ! !
+
+How much computing power to upgrade depends entirely on the heat dissipation capacity of your machine. As long as you can control the heat dissipation, you can upgrade to the highest computing power and run stably!
+
+The 5-minute computing power of KS0ultra and KS5L firmware will be displayed low, and KS5L may display 9T in 5 minutes. This is normal. The upgraded computing power will be reached after running for a few hours. The longer it runs, the higher the computing power will be!
 
 https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
 
