@@ -1,8 +1,12 @@
-请查看对应压缩包内的readme文档来升级。
+请一定更要查看对应压缩包内的readme或者PDF文档来升级，非常重要
+
+7月22日更新了KS0ultra和KS5L固件的稳定性，请及时更新！！！
+
+Please be sure to check the readme or PDF document in the corresponding compressed package to upgrade, it is very important
+
+The stability of KS0ultra and KS5L firmware was updated on July 22, please update in time!!!
 
 https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
-
-PLS follow readme file to upgrade
 
 1、固件可以直接通过Web界面中的固件升级上传，升级完成后需要重启2次。
 
