@@ -22,7 +22,7 @@ https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
 
 本固件有配套检测工具，下载地址：github.com/rskj18/Iceriver-OC/releases/tag/tools
 
-KS0ultra ：505G-700G 已更新
+KS0ultra ：505G-721G 已更新
 KS5L ：12180G-12920G 已更新
 
 KS0PRO:250G-360G
