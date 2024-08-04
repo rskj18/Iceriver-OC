@@ -1,20 +1,18 @@
 请一定更要查看对应压缩包内的readme或者PDF文档来升级，非常重要
 
-7月23日更新了KS0ultra和KS5L固件的稳定性，请及时更新！！！
+8月4日更新了KS0ultra和KS5L固件和KS5M固件的稳定性，这三个版本取消INIT现在可以支持随时升级和还原，请及时更新！！！
 
 升级多少算力完全取决于你的机器散热能力，只要能控制散热即可升级到最高算力稳定运行！
 
-KS0ultra和KS5L固件5分钟算力会显示偏低，KS5L可能会显示5分钟9T是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
+KS0ultra和KS5L固件，KS5M固件5分钟算力会显示偏低，T是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
 
 Please be sure to check the readme or PDF document in the corresponding compressed package to upgrade, it is very important
 
-The stability of KS0ultra and KS5L firmware was updated on July 22, please update in time! ! !
+On August 4, the stability of KS0ultra, KS5L and KS5M firmware was updated. These three versions canceled INIT and can now support upgrades and restores at any time. Please update in time! ! !
 
 How much computing power to upgrade depends entirely on the heat dissipation capacity of your machine. As long as you can control the heat dissipation, you can upgrade to the highest computing power and run stably!
 
-The 5-minute computing power of KS0ultra and KS5L firmware will be displayed low, and KS5L may display 9T in 5 minutes. This is normal. The upgraded computing power will be reached after running for a few hours. The longer it runs, the higher the computing power will be!
-
-https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
+The computing power of KS0ultra, KS5L and KS5M firmware will be low in 5 minutes, which is normal. The upgraded computing power will be reached after running for a few hours. The longer it runs, the higher the computing power will be!
 
 1、固件可以直接通过Web界面中的固件升级上传，升级完成后需要重启2次。
 
@@ -24,17 +22,16 @@ https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
 
 KS0ultra ：505G-721G 已更新
 KS5L ：12180G-12920G 已更新
+KS5M ：15178G-16071G 已更新
 
 KS0PRO:250G-360G
 KS3M:5000g-6750g
 
 KS3L KS3M固件通用。
 
-The firmware can be directly uploaded through the web interface for firmware upgrades. After the upgrade is complete, it requires two reboots.
+1. The firmware can be directly uploaded through the web interface for firmware upgrades. After the upgrade is complete, it requires two reboots.
 
-https://github.com/rskj18/Iceriver-OC/releases/tag/upgrade
-
-Pool connections cannot use SSL links. Otherwise, you won't be able to connect to the pool, and then you should reboot.
+2. Pool connections cannot use SSL links. Otherwise, you won't be able to connect to the pool, and then you should reboot.
 
 This firmware comes with a tool for monitoring temperature and voltage. Download link: github.com/rskj18/Iceriver-OC/releases/tag/tools
 
