@@ -1,5 +1,7 @@
 请一定更要查看对应压缩包内的readme或者PDF文档来升级，非常重要
 
+https://github.com/rskj18/Iceriver-OC/tree/upgrade
+
 8月4日更新了KS0ultra和KS5L固件和KS5M固件的稳定性，这三个版本取消INIT现在可以支持随时升级和还原，请及时更新！！！
 
 升级多少算力完全取决于你的机器散热能力，只要能控制散热即可升级到最高算力稳定运行！
@@ -7,6 +9,8 @@
 KS0ultra和KS5L固件，KS5M固件5分钟算力会显示偏低是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
 
 Please be sure to check the readme or PDF document in the corresponding compressed package to upgrade, it is very important
+
+https://github.com/rskj18/Iceriver-OC/tree/upgrade
 
 On August 4, the stability of KS0ultra, KS5L and KS5M firmware was updated. These three versions canceled INIT and can now support upgrades and restores at any time. Please update in time! ! !
 
