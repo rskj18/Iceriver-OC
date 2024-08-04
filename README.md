@@ -4,7 +4,7 @@
 
 升级多少算力完全取决于你的机器散热能力，只要能控制散热即可升级到最高算力稳定运行！
 
-KS0ultra和KS5L固件，KS5M固件5分钟算力会显示偏低，T是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
+KS0ultra和KS5L固件，KS5M固件5分钟算力会显示偏低是正常现象，运行几小时后达到升级算力，运行越久到达升级算力！
 
 Please be sure to check the readme or PDF document in the corresponding compressed package to upgrade, it is very important
 
